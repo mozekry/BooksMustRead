@@ -1,0 +1,17 @@
+- Groking algorithms -- D
+- Algorithms Unplugged -- D
+- Clean Code -- D 
+- Head First Object Oriented Programming -- D
+- Head First Design Patterns -- D
+- Agile Principles, Patterns, and Practices in C# --D
+- Domain Driven Design Tackling complexity in the heart of software -- D
+- Implementing Domain driven Design -- D
+- Patterns of Enterprise Application Architecture -- D
+- Refactoring -- D
+- Refactoring to patterns -- D
+- TSQL Fundamentals -- D
+- Designing Data intensive Applications
+- Professional SQL server 2016 internals and  Troubleshooting
+- NoSQL Distilled
+- Reactive Design Patterns
+- choose a book on Parallel programming
