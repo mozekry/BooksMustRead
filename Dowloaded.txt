@@ -1,0 +1,11 @@
+- Groking algorithms
+- Algorithms Unplugged
+- Clean Code 
+- Head First Design Patterns
+- Agile Principles, Patterns, and Practices in C# --D
+- Domain Driven Design Tackling complexity in the heart of software
+- Implementing Domain driven Design
+- Patterns of Enterprise Application Architecture
+- Refactoring
+- Refactoring to patterns
+- TSQL Fundamentals
